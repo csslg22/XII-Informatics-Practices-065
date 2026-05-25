@@ -114,5 +114,5 @@ These are core sections covered in this repository.
  ┣ 📂 Data-Visualization
  ┣ 📂 Projects
  ┣ 📂 Practical-Files
- ┣ 📂 Notes
+ ┣ 📂 Notes & Worksheets
  ┗ 📜 README.md
